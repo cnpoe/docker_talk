@@ -10,3 +10,4 @@
 - [Dockerfiles](https://docs.docker.com/engine/reference/builder/)
 - [Toda la documentación de docker](https://docs.docker.com/)
 - [Docker commands](https://docs.docker.com/engine/reference/run/)
+- [Medium post commands](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
