@@ -11,3 +11,4 @@
 - [Toda la documentación de docker](https://docs.docker.com/)
 - [Docker commands](https://docs.docker.com/engine/reference/run/)
 - [Medium post commands](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
+- [Slides](https://docs.google.com/presentation/d/1AMvj_OPA6y9dLt0-4DaV9riUyilApQeZn-mf3H0eDRY/edit?usp=sharing)
