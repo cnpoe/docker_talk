@@ -1,5 +1,5 @@
 # Plática de docker en tracsa
-### Ejemplo de imágen
+### Ejemplo de imagen
 [Django Graphene API](https://github.com/cnpoe/django_graphql)
 
 ### Orquestando contenedores
