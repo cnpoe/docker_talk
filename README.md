@@ -6,6 +6,6 @@
 [Multiple services with docker-compose](https://github.com/cnpoe/djangoLDAPAuth)
 
 ### Recursos
-[Entendiendo docker](https://docs.docker.com/engine/docker-overview/)
-[Dockerfiles](https://docs.docker.com/engine/reference/builder/)
-[Toda la documentación de docker](https://docs.docker.com/)
+- [Entendiendo docker](https://docs.docker.com/engine/docker-overview/)
+- [Dockerfiles](https://docs.docker.com/engine/reference/builder/)
+- [Toda la documentación de docker](https://docs.docker.com/)
